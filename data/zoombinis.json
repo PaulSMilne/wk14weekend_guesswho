@@ -1,0 +1,85 @@
+{
+    "zoombinis": 
+     [
+          {"name": "Allan",
+               "axe": false,
+               "hair": "quiff",
+               "glasses": true,
+               "nose": "black",
+               "locomotion": "skates",
+               "image": "allan.png"
+          },
+          {"name": "Beth",
+               "axe": false,
+               "hair": "ponytail",
+               "glasses": true,
+               "nose": "green",
+               "locomotion": "propellor",
+               "image": "beth.png"
+          },
+          {"name":"Craig",
+               "axe": false,
+               "hair": "quiff",
+               "glasses": false,
+               "nose": "orange",
+               "locomotion": "feet",
+               "image": "craig.png"
+          },
+          {"name":"Darren",
+               "axe": true,
+               "hair": "shaggy",
+               "glasses": true,
+               "nose": "black",
+               "locomotion": "propellor",
+               "image": "darren.png"              
+          },
+          {"name": "Jay",
+               "axe": false,
+               "hair": "tuft",
+               "glasses": false,
+               "nose": "orange",
+               "locomotion": "propellor",
+               "image": "jay.png"               
+          },
+          {"name":"Kat",
+               "axe": false,
+               "hair": "ponytail",
+               "glasses": false,
+               "nose": "red",
+               "locomotion": "wheels",
+               "image": "kat.png"               
+          },
+          {"name": "Keith",
+               "axe": true,
+               "hair": "shaggy",
+               "glasses": true,
+               "nose": "purple",
+               "locomotion": "spring",
+               "image": "keith.png"                  
+          },
+          {"name":"Sandy",
+               "axe": false,
+               "hair": "tuft",
+               "glasses": true,
+               "nose": "red",
+               "locomotion": "skates",
+               "image": "sandy.png"              
+          },
+          {"name":"Sian",
+               "axe": false,
+               "hair": "shaggy",
+               "glasses": false,
+               "nose": "red",
+               "locomotion": "wheels",
+               "image": "sian.png"               
+          },
+          {"name":"Val",
+               "axe": false,
+               "hair": "ponytail",
+               "glasses": false,
+               "nose": "green",
+               "locomotion": "feet",
+               "image": "val.png"
+          }
+     ]
+}
