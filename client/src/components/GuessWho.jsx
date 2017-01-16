@@ -1,4 +1,5 @@
 import React from 'react'
+import Board from './Board.jsx'
 
 class GuessWho extends React.Component{
      constructor(props){
